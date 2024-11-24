@@ -1,0 +1,1 @@
+This application is used to extract occupational data from the O*NET Web Services API. It utilizes advanced scripting techniques to parse XML/JSON responses, transforming raw data into structured outputs for analysis. It generates JSON files with detailed information on job titles, tasks, and descriptions, improving data accessibility and streamlining workflows.
